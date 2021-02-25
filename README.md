@@ -9,8 +9,10 @@
 
 #
 
-### :nerd_face: Languages I've Explored
+### :nerd_face: Languages / Tools I've Explored
 
+<img align="left" alt="Docker" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/docker-logo.png" />
+<img align="left" alt="TravisCI" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/travisCI.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="45px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/redux.png" />
 <img align="left" alt="Typescript" width="45px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/typescript.png" />
@@ -29,7 +31,6 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Android Studio" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/androidStudio.png" />
 <img align="left" alt="Python" width="75px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/python.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 
 [website]: https://mattfrancis.vercel.app/
