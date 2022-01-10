@@ -4,6 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" />
 </a>
 
+
 ### :office: [LinkedIn (Click Me)][linkedin]
 
 #
@@ -16,19 +17,15 @@
 
 ### :nerd_face: Languages / Tools I've Explored
 
-<img align="left" alt="Docker" width="45px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/docker-logo.png" />
-<img align="left" alt="TravisCI" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/travisCI.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="45px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/redux.png" />
-<img align="left" alt="Typescript" width="45px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/typescript.png" />
-<img align="left" alt="Jest" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/jest.png" />
-<img align="left" alt="React-Testing-Library" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/rtl.png" />
-<img align="left" alt="Enzyme" width="35px" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/enzyme.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GraphQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<br/><br/>
+#### Frontend: 
+React, Next.js, React-Spring, Redux, Typescript, React- Testing-Library, Enzyme, Jest, HTML, SCSS, BEM, CSS, Bootstrap, JS, Figma, Lighthouse, axe
+
+#### Backend: 
+Authentication, Database Normalization, Docker, CI/CD, Node.js, Express.js, PostgreSQL, MongoDB, GraphQL
+
+#### Tools: 
+Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Teams, Slack, Heroku, Vercel
+
 <br/><br/>
 
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
