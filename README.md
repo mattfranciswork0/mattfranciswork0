@@ -1,10 +1,10 @@
-### :computer: [My Portfolio (Has Contact Info)][website]
+### :computer: [My Portfolio (Click Me)][website]
 
 <a href="https://github.com/mattfrancis888/portfolio3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" />
 </a>
 
-### :office: [LinkedIn][linkedin]
+### :office: [LinkedIn (Click Me)][linkedin]
 
 #
 
