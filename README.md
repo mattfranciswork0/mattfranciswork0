@@ -33,7 +33,7 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Tea
 
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/wfh.jpg" />
 
-- 34 inch ultrawide 1440p - Gigabyte M3WQ
-- 27 inch 1440p - Gigabyte G27Q 
-- 21 inch 900p - Asus
-- Mouse, keyboard, webcam, microphone, wired ethernet cable.
+- 34 inch ultrawide 1440p monitor - Gigabyte M3WQ
+- 27 inch 1440p monitor - Gigabyte G27Q 
+- 21 inch 900p monitor - ASUS
+- PC, Mouse, keyboard, webcam, microphone, wired ethernet cable.
