@@ -36,4 +36,4 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Tea
 - 34 inch ultrawide 1440p monitor - Gigabyte M3WQ
 - 27 inch 1440p monitor - Gigabyte G27Q 
 - 21 inch 900p monitor - ASUS
-- PC, Mouse, keyboard, webcam, microphone, headphones, wired ethernet cable.
+- PC, mouse, keyboard, webcam, microphone, headphones, wired ethernet cable.
