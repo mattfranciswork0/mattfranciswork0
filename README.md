@@ -13,7 +13,8 @@
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-#
+#### Longest commit streak so far:
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" />
 
 ### :nerd_face: Languages / Tools I've Explored
 
