@@ -19,6 +19,9 @@
     </a>
     <br/>
     <br/>
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&count_private=true" height="200" alt="stats" />
+ <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfrancis888&layout=compact"/>
+ </p>
     
 
 #### Longest commit streak so far:
