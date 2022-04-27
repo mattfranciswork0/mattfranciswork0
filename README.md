@@ -11,7 +11,15 @@
 
 ### :star: Github Stats
 
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&include_all_commits=true&count_private=true" height="200" alt="stats" />
+<!-- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&include_all_commits=true&count_private=true" height="200" alt="stats" /> -->
+
+<p align="center">
+    <a>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfrancis888&theme=tokyonight_duo&hide_border=true"/>
+    </a>
+    <br/>
+    <br/>
+    
 
 #### Longest commit streak so far:
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" />
