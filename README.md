@@ -50,10 +50,8 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Tea
 
 ### :computer: WFH / Remote Equipment
 
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/wfh.jpg" />
-
 - 34 inch ultrawide 1440p monitor - Gigabyte M3WQ
-- 27 inch 1440p monitor - Gigabyte G27Q 
-- 21 inch 900p monitor - ASUS
+- 2x 27 inch 1440p monitor - Gigabyte G27Q 
+- 1080p 21 inch  Dell Monitor
 - PC, mouse, keyboard, webcam, microphone, headphones, wired ethernet cable.
 #
