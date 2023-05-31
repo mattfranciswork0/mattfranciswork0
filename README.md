@@ -6,7 +6,7 @@ I'm proudly representing the land of maple syrup, poutine, and polite apologies-
 ### :man: [My Portfolio (Click Me)][website]
 
 <a href="https://github.com/mattfrancis888/portfolio3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" width="1000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" width="500" />
 </a>
 
 <img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/d72323bc-66f3-40fd-9f3e-01da3d040b2a=" width="1000" />
@@ -25,12 +25,12 @@ I'm proudly representing the land of maple syrup, poutine, and polite apologies-
 
 <p align="center">
     <a>
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfrancis888&theme=tokyonight_duo&hide_border=true" width="1000"/>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfrancis888&theme=tokyonight_duo&hide_border=true" width="600"/>
     </a>
     <br/>
     <br/>
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&count_private=true" width="500"  alt="stats" />
- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfrancis888&layout=compact" width="500"/>
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&count_private=true" width="400"  alt="stats" />
+ <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfrancis888&layout=compact" width="400"/>
  </p>
     
 #
