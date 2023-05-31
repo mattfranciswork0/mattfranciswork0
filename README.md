@@ -49,13 +49,14 @@ Checkout Starty! I co-founded a non-profit that fosters student innovation and c
 ### :nerd_face: Languages / Tools I've Explored
 
 #### Frontend: 
-React, Next.js, React-Spring, Redux, Typescript, React- Testing-Library, Enzyme, Jest, HTML, SCSS, BEM, CSS, Bootstrap, JS, Figma, Lighthouse, axe
+React, Next.js, Angular, React-Spring, Redux, Apollo GraphQL, Typescript, React-Testing-Library, Enzyme, Jest, HTML, SCSS, BEM, CSS, Bootstrap, JS, Figma, Lighthouse, axe, Android Studio
 
 #### Backend: 
-Authentication, Database Normalization, Docker, CI/CD, Node.js, Express.js, PostgreSQL, MongoDB, GraphQL
+Authentication, Database Normalization, Docker, CI/CD, Node.js, Express.js, PostgreSQL, MongoDB,
+GraphQL, Liquibase, Elasticsearch, Java, Python
 
 #### Tools: 
-Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Teams, Slack, Heroku, Vercel
+Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Vercel, Linux, Transifex, Datadog, Raygun, Redash, JIRA, Confluence, Slack, Microsoft Teams
 
 [website]: https://mattfrancis.vercel.app/
 [linkedin]: https://www.linkedin.com/in/matthew-francis-b9b1b31a2/
