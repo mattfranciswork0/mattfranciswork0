@@ -6,12 +6,16 @@ I'm proudly representing the land of maple syrup, poutine, and polite apologies-
 ### :man: [My Portfolio (Click Me)][website]
 
 <a href="https://github.com/mattfrancis888/portfolio3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" width="500" />
 </a>
+
+<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/d72323bc-66f3-40fd-9f3e-01da3d040b2a=" width="1000" />
 
 #
 
 ### :office: [LinkedIn (Click Me)][linkedin]
+
+<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/c44e5853-0cb6-4c50-9ab9-603858a53cd7" width="1000" />
 
 #
 
@@ -31,8 +35,8 @@ I'm proudly representing the land of maple syrup, poutine, and polite apologies-
     
 #
 
-### Longest commit streak so far:
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" />
+### Longest commit streak (personal record in 2020-2021):
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  />
 
 #
 
