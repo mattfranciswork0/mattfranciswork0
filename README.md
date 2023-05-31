@@ -35,7 +35,7 @@ I'm proudly representing the land of maple syrup, poutine, and polite apologies-
     
 #
 
-### Longest commit streak (personal record in 2020-2021):
+### :rocket: Longest commit streak (personal record in 2020-2021):
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  />
 
 #
