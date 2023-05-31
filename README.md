@@ -1,6 +1,6 @@
 #
 ## 👋Hello
-I'm proudly representing the land of maple syrup, poutine, and polite apologies-Canada 🍁! I'm from the vibrant Greater Toronto Area in Canada. Since the age of 16, I've been passionately creating software. Alongside that, I'm an avid sports enthusiast, diving into immersive video games, and indulging in the wonderful world of movies and TV shows.
+I'm proudly representing the land of maple syrup, poutine, and polite apologies-Canada 🍁! Since the age of 16, I've been passionately creating software. Alongside that, I'm an avid sports enthusiast, diving into immersive video games, and indulging in the wonderful world of movies and TV shows.
 
 
 ## :hammer: [Starty (Click Me)][starty] 
