@@ -19,11 +19,6 @@ Checkout Starty! I co-founded a non-profit that fosters student innovation and c
 
 #
 
-### :office: [LinkedIn (Click Me)][linkedin]
-
-<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/c44e5853-0cb6-4c50-9ab9-603858a53cd7" width="1000" />
-
-#
 
 ### :star: Github Stats
 
@@ -41,8 +36,16 @@ Checkout Starty! I co-founded a non-profit that fosters student innovation and c
     
 #
 
+
+
 ### :rocket: Longest commit streak (personal record in 2020-2021):
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  />
+
+#
+
+### :office: [LinkedIn (Click Me)][linkedin]
+
+<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/c44e5853-0cb6-4c50-9ab9-603858a53cd7" width="1000" />
 
 #
 
