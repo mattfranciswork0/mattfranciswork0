@@ -68,4 +68,8 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Microsoft Tea
 - 2x 27 inch 1440p monitor - Gigabyte G27Q 
 - 1080p 21 inch  Dell Monitor
 - PC, mouse, keyboard, webcam, microphone, headphones, wired ethernet cable.
+
+![image](https://github.com/mattfrancis888/mattfrancis888/assets/22691408/9afe2f3a-4548-4047-98a2-12fb12d548a5)
+*The picture above is not my exact setup, but it is very simmilar*
+
 #
