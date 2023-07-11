@@ -1,3 +1,4 @@
+
 #
 ## 👋Hello
 I'm a software engineer proudly representing the land of maple syrup and poutine, Canada 🍁 Since the age of 16, I've been passionately creating software. Besides that, I'm a sports enthusiast, enjoy diving into video games, and indulging in the wonderful world of movies & TV shows.
@@ -45,7 +46,8 @@ Checkout Starty! I co-founded a non-profit that fosters student innovation and c
 
 ### :office: [LinkedIn (Click Me)][linkedin]
 
-<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/c44e5853-0cb6-4c50-9ab9-603858a53cd7" width="1000" />
+    
+![linkedin](https://github.com/mattfrancis888/mattfrancis888/assets/22691408/ad540bf7-b2a2-49a9-a41e-39fe660af74c)
 
 #
 
