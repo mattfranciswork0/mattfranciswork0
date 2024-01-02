@@ -3,10 +3,13 @@
 ## 👋Hello
 I'm a software engineer proudly representing the land of maple syrup and poutine, Canada 🍁 Since the age of 16, I've been passionately creating software. Besides that, I'm a sports enthusiast, enjoy diving into video games, and indulging in the wonderful world of movies & TV shows.
 
+### :office: [LinkedIn (Click Me)][linkedin]
+
+#
 
 ## :hammer: [Starty (Click Me)][starty] 
 
-Checkout Starty! I co-founded a non-profit that fosters student innovation and collaboration, specifically aimed at nurturing startups and team projects with my team and university's incubator.
+I co-founded Starty, it fosters student innovation and collaboration, specifically aimed at nurturing startups and team projects with my team and university's incubator. Check it out:
 
 <img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/a8b56815-63d8-4953-ba6b-215704877cd4" width="1000" />
 
@@ -31,25 +34,20 @@ Checkout Starty! I co-founded a non-profit that fosters student innovation and c
     </a>
     <br/>
     <br/>
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&count_private=true" width="400"  alt="stats" />
- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfrancis888&layout=compact" width="400"/>
+<!-- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&count_private=true" width="400"  alt="stats" />
+ <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfrancis888&layout=compact" width="400"/> -->
  </p>
     
 #
 
 
 
-### :rocket: Longest commit streak (personal record in 2020-2021):
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  />
+<!--  ### :rocket: Longest commit streak (personal record in 2020-2021):
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  /> -->
 
-#
 
-### :office: [LinkedIn (Click Me)][linkedin]
 
-    
-![linkedin](https://github.com/mattfrancis888/mattfrancis888/assets/22691408/ad540bf7-b2a2-49a9-a41e-39fe660af74c)
 
-#
 
 ### :nerd_face: Languages / Tools I've Explored
 
@@ -75,7 +73,3 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Verce
 - 1080p 21 inch  Dell Monitor
 - PC, mouse, keyboard, webcam, Blue snowball microphone with mic stand, headphones, wired ethernet cable.
 
-![image](https://github.com/mattfrancis888/mattfrancis888/assets/22691408/9afe2f3a-4548-4047-98a2-12fb12d548a5)
-*The picture above is not my exact setup, but it is very simmilar*
-
-#
