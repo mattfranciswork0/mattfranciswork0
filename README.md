@@ -1,27 +1,4 @@
 
-#
-## 👋Hello
-I'm a software engineer proudly representing the land of maple syrup and poutine, Canada 🍁
-
-### :office: [LinkedIn (Click Me)][linkedin]
-
-#
-
-## :hammer: [Starty (Click Me)][starty] 
-
-I co-founded Starty, it fosters student innovation and collaboration, specifically aimed at nurturing startups and team projects with my team and university's incubator. Check it out:
-
-<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/a8b56815-63d8-4953-ba6b-215704877cd4" width="1000" />
-
-#
-### :man: [My Portfolio (Click Me)][website]
-<img src="https://github.com/mattfrancis888/mattfrancis888/assets/22691408/d72323bc-66f3-40fd-9f3e-01da3d040b2a=" width="1000" />
-
-<a href="https://github.com/mattfrancis888/portfolio3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattfrancis888&repo=portfolio3&theme=buefy" width="500" />
-</a>
-
-#
 
 
 ### :star: Github Stats
