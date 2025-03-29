@@ -1,37 +1,12 @@
 
 
 
- ### Github  
-
-<!-- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&include_all_commits=true&count_private=true" height="200" alt="stats" /> -->
-
-<p align="center">
-   <a>
-       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfranciswork0&theme=tokyonight_duo&hide_border=true" width="300"/>
-    </a> 
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfranciswork0&show_icons=true&count_private=true" width="300"  alt="stats" />
- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfranciswork0&&layout=compact" width="300"/>
- </p>
-    
-#
-
 
 
 <!--  ### :rocket: Longest commit streak (personal record in 2020-2021):
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  /> -->
 
 
-###  Languages / Tools I've Explored
-
-#### Frontend: 
-React, Next.js, Angular, React-Spring, Redux, Apollo GraphQL, Typescript, React-Testing-Library, Enzyme, Jest, HTML, SCSS, BEM, CSS, Bootstrap, JS, Figma, Lighthouse, axe, Android Studio
-
-#### Backend: 
-Authentication, Database Normalization, Docker, CI/CD, Node.js, Express.js, PostgreSQL, MongoDB,
-GraphQL, Liquibase, Elasticsearch, Java, Python
-
-#### Tools: 
-Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Vercel, Linux, Transifex, Datadog, Raygun, Redash, JIRA, Confluence, Slack, Microsoft Teams
 
 [website]: https://mattfrancis.vercel.app/
 [linkedin]: https://www.linkedin.com/in/matthew-francis-b9b1b31a2/
@@ -61,6 +36,33 @@ Led a team of 4 in startup incubator to engineer and grow a platform for fosteri
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" width="300"  />
 </p>
 
+
+ ### Github  
+
+<!-- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfrancis888&show_icons=true&include_all_commits=true&count_private=true" height="200" alt="stats" /> -->
+
+<p align="center">
+   <a>
+       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfranciswork0&theme=tokyonight_duo&hide_border=true" width="300"/>
+    </a> 
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfranciswork0&show_icons=true&count_private=true" width="300"  alt="stats" />
+ <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfranciswork0&&layout=compact" width="300"/>
+ </p>
+    
+#
+
+
+###  Languages / Tools I've Explored
+
+#### Frontend: 
+React, Next.js, Angular, React-Spring, Redux, Apollo GraphQL, Typescript, React-Testing-Library, Enzyme, Jest, HTML, SCSS, BEM, CSS, Bootstrap, JS, Figma, Lighthouse, axe, Android Studio
+
+#### Backend: 
+Authentication, Database Normalization, Docker, CI/CD, Node.js, Express.js, PostgreSQL, MongoDB,
+GraphQL, Liquibase, Elasticsearch, Java, Python
+
+#### Tools: 
+Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Vercel, Linux, Transifex, Datadog, Raygun, Redash, JIRA, Confluence, Slack, Microsoft Teams
 
 ### :computer: WFH / Remote Equipment
 
