@@ -13,7 +13,7 @@
 [starty]: https://www.starty.ca/
 
 
-## My Projects
+## My Web applications Projects
 
 ### Blizzard, Steam, Netflix
 <p float="left">
