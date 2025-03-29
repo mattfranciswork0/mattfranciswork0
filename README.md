@@ -42,16 +42,16 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Verce
 
 ### Blizzard, Steam, Netflix
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p1.jpeg" width="300"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p2.jpeg" width="300"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p3.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p1.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p2.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p3.jpeg" width="200"  />
 </p>
 
 ### Dreamworks, Kijiji, Pixar
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg" width="300"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" width="300"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg" width="200"  />
 </p>
 
 
