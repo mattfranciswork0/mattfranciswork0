@@ -17,23 +17,24 @@
 
 ### Blizzard, Steam, Netflix
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p1.jpeg" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p2.jpeg" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p3.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p1.jpeg" height="300" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p2.jpeg"  height="300" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p3.jpeg"  height="300" width="200"  />
 </p>
 
 ### Dreamworks, Kijiji, Pixar
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg"  height="300" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" height="300" width="200"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg"  height="300" width="200"  />
 </p>
 
 
 ## Startup (Starty)
 Led a team of 4 in startup incubator to engineer and grow a platform for fostering student collaboration with an outreach of over 300+ registered students with Next.js, PostgreSQL, Node.js
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" height="300" width="300"  />
+ <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty2.png" width="300" height="300"  />
 </p>
 
 
@@ -43,10 +44,10 @@ Led a team of 4 in startup incubator to engineer and grow a platform for fosteri
 
 <p align="center">
    <a>
-       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfranciswork0&theme=tokyonight_duo&hide_border=true" width="300"/>
+       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mattfranciswork0&theme=tokyonight_duo&hide_border=true" height="300" width="300"/>
     </a> 
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfranciswork0&show_icons=true&count_private=true" width="300"  alt="stats" />
- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfranciswork0&&layout=compact" width="300"/>
+  <!-- <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattfranciswork0&show_icons=true&count_private=true" height="300" width="300"  alt="stats" />-->
+ <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattfranciswork0&&layout=compact" height="300" width="300"/>
  </p>
     
 #
