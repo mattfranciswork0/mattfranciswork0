@@ -20,6 +20,7 @@
 <!--  ### :rocket: Longest commit streak (personal record in 2020-2021):
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/record.jpg" width="1000"  /> -->
 
+
 ###  Languages / Tools I've Explored
 
 #### Frontend: 
@@ -35,7 +36,31 @@ Git, AWS, Gitlab, Azure DevOps, TravisCI, GitHub Actions, Shopify, Heroku, Verce
 [website]: https://mattfrancis.vercel.app/
 [linkedin]: https://www.linkedin.com/in/matthew-francis-b9b1b31a2/
 [starty]: https://www.starty.ca/
-#
+
+
+## My Projects
+
+### Blizzard, Steam, Netflix
+<p float="left">
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p1.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p2.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p3.jpeg" width="300"  />
+</p>
+
+### Dreamworks, Kijiji, Pixar
+<p float="left">
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" width="300"  />
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg" width="300"  />
+</p>
+
+
+## Startup (Starty)
+Led a team of 4 in startup incubator to engineer and grow a platform for fostering student collaboration with an outreach of over 300+ registered students with Next.js, PostgreSQL, Node.js
+<p float="left">
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" width="300"  />
+</p>
+
 
 ### :computer: WFH / Remote Equipment
 
