@@ -24,18 +24,19 @@
 
 ### Dreamworks, Kijiji, Pixar
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg"  height="300" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" height="300" width="200"  />
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg"  height="300" width="200"  />
+<img align="center"   src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p4.jpeg"  height="300" width="200"  />
+<img align="center"   src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p5.jpeg" height="300" width="200"  />
+<img align="center"  src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/p6.jpeg"  height="300" width="200"  />
 </p>
 
 
 ## Startup (Starty)
 Led a team of 4 in startup incubator to engineer and grow a platform for fostering student collaboration with an outreach of over 300+ registered students with Next.js, PostgreSQL, Node.js
 <p float="left">
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" height="300" width="300"  />
- <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty2.png" width="300" height="300"  />
+<img align="center"  src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty.jpeg" height="300" width="300" />
+ <img align="center"  src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty2.png" height="300" width="300"  />
 </p>
+ <img align="center"  src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/starty3.png" height="300" width="300"  />
 
 
  ### Github  
