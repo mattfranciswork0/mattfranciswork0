@@ -14,7 +14,7 @@
 
 ## Matthew Francis
 
-<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/stitch.gif" height="200" width="200"  />
+<!--  <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/stitch.gif" height="200" width="200"  /> -->
 
 ## Portfolio
 
