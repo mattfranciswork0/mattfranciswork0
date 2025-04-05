@@ -12,8 +12,13 @@
 [linkedin]: https://www.linkedin.com/in/matthew-francis-b9b1b31a2/
 [starty]: https://www.starty.ca/
 
+## Matthew Francis
+
+<img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/stitch.gif" height="200" width="200"  />
+
 ## Portfolio
-### [Click here to view my portfolio](https://mattfrancis.vercel.app/)
+
+### [View my portfolio](https://mattfrancis.vercel.app/)
 
 <img align="center"  alt="wfh" src="https://github.com/mattfrancis888/mattfrancis888/blob/master/readmeImg/portfolio.PNG" height="600" width="900"  />
 
